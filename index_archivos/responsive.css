@@ -1,0 +1,444 @@
+@media all and (min-width:1920px)
+{
+.container {
+	width: 1230px;
+}
+.banner-image-wrapper {
+	width: 48%;
+}
+.banner-text {
+	width: 52%;
+}
+.banner-image-cell {
+	padding-right: 40px;
+}
+.text-content-wrapper {
+	padding-left: 10px;
+}
+.text-content-wrapper {
+	width: 75%;
+}
+.slick-dots {
+	right: -200px;
+}
+.service-container {
+	padding-left: 100px; margin-right: -58px;
+}
+.newsletter-area::before {
+	left: -6%; top: -88px; width: 46%; transform: rotate(-6.5deg);
+}
+.newsletter-area::after {
+	left: -6%; top: -88px; width: 46%; transform: rotate(-6.5deg);
+}
+.newsletter-area::after {
+	left: auto; top: -29px; width: 65.7%; right: -4%; transform: rotate(10deg);
+}
+.mailchimp-alerts {
+	width: 100%; margin-left: 42px;
+}
+.newsletter-bg::after {
+	transform: skewX(-99deg);
+}
+}
+@media all and (max-width:1169px) and (min-width:992px)
+{
+.container {
+	width: 970px;
+}
+.newsletter-area::before {
+	top: -77px; width: 42.8%;
+}
+.newsletter-area::after {
+	top: -77px; width: 42.8%;
+}
+.newsletter-area::after {
+	left: auto; top: -33px; width: 69.1%;
+}
+.make-call-registration .form-box > input {
+	width: 211px;
+}
+.make-call-registration .form-box > select {
+	width: 211px;
+}
+.faq-area .panel-group {
+	padding-right: 0px;
+}
+.faq-left-sec {
+	padding-left: 30px;
+}
+.faq-title-image {
+	padding-top: 30px;
+}
+.feature-image-content img {
+	max-width: 100%;
+}
+.feature-text-content {
+	padding-left: 0px;
+}
+.slick-dots {
+	top: 43%; right: -85px;
+}
+.service-right {
+	padding-right: 0px;
+}
+.service-right > img {
+	max-width: 100%;
+}
+.service-business-area .feature-text {
+	padding-right: 0px;
+}
+.c-content {
+	width: 84px;
+}
+.footer-widget-area :nth-child(2).col-md-3 .single-footer-widget {
+	padding-left: 55px;
+}
+.footer-widget-area :nth-child(3).col-md-3 .single-footer-widget {
+	padding-left: 55px;
+}
+.footer-widget-area :nth-child(4).col-md-3 .single-footer-widget {
+	padding-left: 55px;
+}
+}
+@media all and (max-width:991px) and (min-width:768px)
+{
+.container {
+	width: 750px;
+}
+button.nav-btn i {
+	display: none;
+}
+button.nav-btn span {
+	display: block;
+}
+.header-area {
+	padding: 20px 0px;
+}
+.mean-container .mean-bar {
+	height: auto;
+}
+.single-service-container {
+	padding: 0px;
+}
+.service-icon::before {
+	width: 50px; right: -57px;
+}
+.newsletter-area::before {
+	top: -72px; width: 43.3%;
+}
+.newsletter-container {
+	padding: 0px;
+}
+.newsletter-form input {
+	width: 275px;
+}
+.newsletter-info {
+	width: 50%;
+}
+.newsletter-form {
+	width: 50%;
+}
+.newsletter-info h3.text-light {
+	font-size: 20px;
+}
+.make-call-registration .form-box > input {
+	width: 170px; margin-right: 7px;
+}
+.make-call-registration .form-box > select {
+	width: 170px; margin-right: 7px;
+}
+.make-call-registration .form-box > select {
+	width: 130px;
+}
+.feature-image-content img {
+	max-width: 100%;
+}
+.feature-text-content {
+	padding-left: 0px;
+}
+.single-feature {
+	padding-top: 45px;
+}
+.feature-text > h3 {
+	font-size: 22px;
+}
+.feature-text {
+	padding-right: 0px;
+}
+.service-left {
+	padding: 0px; width: 100%;
+}
+.service-right {
+	display: none;
+}
+.c-content {
+	width: 90px;
+}
+}
+@media all and (max-width:767px)
+{
+.container {
+	width: 300px;
+}
+.banner-text {
+	width: 100%;
+}
+.banner-image-wrapper {
+	display: none;
+}
+.service-icon::before {
+	display: none;
+}
+button.nav-btn i {
+	display: none;
+}
+.service-right {
+	display: none;
+}
+.service-container h2::after {
+	display: none;
+}
+.newsletter-area::before {
+	display: none;
+}
+.newsletter-area::after {
+	display: none;
+}
+.text-content h1 {
+	line-height: 36px; font-size: 26px;
+}
+.text-content p {
+	padding-right: 0px;
+}
+.banner-button :last-child.button {
+	margin-right: 0px;
+}
+.banner-button .button {
+	padding: 10px 20px; font-size: 15px; margin-right: 5px;
+}
+.single-service-item {
+	width: 100%; padding-top: 30px; padding-bottom: 0px;
+}
+.service-text span {
+	display: inline-block;
+}
+.service-text {
+	padding-top: 0px;
+}
+.single-service-container {
+	padding-bottom: 30px;
+}
+.mean-container .mean-bar {
+	height: auto;
+}
+.footer-widget-area {
+	padding-top: 20px; padding-bottom: 40px;
+}
+.single-footer-widget {
+	padding-left: 25px;
+}
+.footer-widget-area :nth-child(2).col-md-3 .single-footer-widget {
+	padding-left: 25px;
+}
+.footer-widget-area :nth-child(3).col-md-3 .single-footer-widget {
+	padding-left: 25px;
+}
+.footer-widget-area :nth-child(4).col-md-3 .single-footer-widget {
+	padding-left: 25px;
+}
+.single-testimonial {
+	padding: 0px;
+}
+.service-left {
+	width: 100%; padding-right: 0px;
+}
+.service-title {
+	padding-right: 0px;
+}
+.service-title > h2 {
+	font-size: 22px; margin-bottom: 15px;
+}
+.service-business-area .single-feature {
+	padding: 10px 0px 20px; width: 100%;
+}
+.service-business-area .feature-text {
+	padding-right: 0px;
+}
+.button-link .default-btn {
+	padding: 8px 23px;
+}
+.button-link .service {
+	padding-left: 0px; font-size: 15px;
+}
+.feature-area .section-title {
+	padding: 0px;
+}
+.feature-image-content {
+	width: 100%;
+}
+.feature-image-content img {
+	margin: 0px; max-width: 100%;
+}
+.section-title > h2 {
+	font-size: 22px; margin-bottom: 12px;
+}
+.feature-text-content {
+	width: 100%; padding-left: 0px;
+}
+.single-feature {
+	padding-top: 50px;
+}
+.feature-text {
+	padding-right: 0px; padding-left: 15px;
+}
+.slick-dots {
+	right: -70px;
+}
+.service-section {
+	padding: 45px 0px 35px;
+}
+.service-container h2 {
+	left: 0px; top: 0px; margin-bottom: 20px; position: inherit; transform: rotate(0deg);
+}
+.service-container {
+	padding-left: 0px;
+}
+.service-item {
+	width: 100%; padding-left: 0px; margin-bottom: 25px;
+}
+:nth-child(5).service-item {
+	margin-bottom: 25px;
+}
+:nth-child(6).service-item {
+	margin-bottom: 25px;
+}
+:nth-child(5).service-item p {
+	margin-bottom: 25px;
+}
+.newsletter-fun-area {
+	background: 0px 0px rgb(245, 245, 245); padding: 0px;
+}
+.newsletter-info {
+	width: 100%;
+}
+.newsletter-form {
+	width: 100%;
+}
+.newsletter-container {
+	padding: 0px;
+}
+.newsletter-form input {
+	width: 198px; margin-left: 0px;
+}
+.newsletter-form form {
+	float: left;
+}
+.single-fun-factor {
+	padding: 10px 0px;
+}
+.pricing-area {
+	padding: 50px 0px 25px;
+}
+.section-title {
+	padding-right: 0px; padding-left: 0px; margin-bottom: 35px;
+}
+.single-table {
+	margin-bottom: 25px;
+}
+.make-call-title {
+	padding: 50px 0px 0px;
+}
+.make-call-registration .form-box > input {
+	width: 100%; margin-bottom: 10px;
+}
+.make-call-registration .form-box > select {
+	width: 100%; margin-bottom: 10px;
+}
+.make-call-registration .submit-btn {
+	width: 100%;
+}
+.call-button :first-child.default-btn {
+	margin-left: 0px;
+}
+.call-button .default-btn {
+	margin: 0px 2px; padding: 10px 18px; font-size: 14px;
+}
+.make-call-registration {
+	padding-bottom: 50px;
+}
+.faq-area {
+	padding: 50px 0px;
+}
+.faq-left-sec {
+	padding-left: 10px;
+}
+.faq-title-image.fix {
+	padding: 0px;
+}
+.faq-image > img {
+	max-width: 100%;
+}
+.faq-title > h3 {
+	font-size: 15px;
+}
+.faq-title > h2 {
+	margin-bottom: 20px;
+}
+.faq-title {
+	padding-top: 86px;
+}
+.faq-area .panel-group {
+	padding-right: 0px; margin-top: 30px;
+}
+.faq-area .panel-title > a.collapsed {
+	padding-left: 10px;
+}
+.faq-area .panel h4 {
+	line-height: 22px; font-size: 15px;
+}
+.faq-area .panel-title > a {
+	padding-left: 10px;
+}
+.panel-body {
+	padding-left: 11px;
+}
+.feature-area {
+	padding: 50px 0px 0px;
+}
+.service-business-area {
+	padding: 0px;
+}
+.testimonial-area {
+	padding: 60px 0px;
+}
+.feature-text > h3 {
+	font-size: 15px; margin-bottom: 8px;
+}
+.service-area {
+	background: 0px 0px rgb(255, 255, 255);
+}
+.single-testimonial > p::after {
+	left: 0px; top: -6px; font-size: 82px;
+}
+.footer-title > h1 {
+	top: -10px; font-size: 80px;
+}
+.single-contact-info.res-xs2 {
+	margin: 20px 0px;
+}
+.mt-100 {
+	margin-top: 0px;
+}
+}
+@media only screen and (max-width:767px) and (min-width:480px)
+{
+.container {
+	width: 450px;
+}
+.text-content-wrapper {
+	margin: 0px auto; padding: 0px 15px; width: 450px;
+}
+.newsletter-form input {
+	width: 347px;
+}
+}
